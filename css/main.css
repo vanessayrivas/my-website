@@ -1,4 +1,11 @@
 /* Place CSS styles here */
-body {background-color: bisque
-    ;}
-    
+body {
+    background-color: lavender;
+}
+
+ * {
+    font-weight: 700;
+    }
+* {
+    font-size: larger;
+}
